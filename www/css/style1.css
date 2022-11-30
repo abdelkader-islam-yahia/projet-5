@@ -1,0 +1,106 @@
+
+body{
+    background-color: #081316cf;
+    color: #ed7878;
+}
+.container {
+    margin-top: 50px;
+}
+
+.brand-logo img{
+    height: 65px;
+}
+
+.page-footer{
+    position: static;
+    bottom: 0px;
+}
+
+.s12{
+    text-align: center;
+    
+}
+
+.text-1 h1{
+    text-align: center;
+    margin-top: 10%;
+    color: #ed7878;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-kerning: none;
+}
+
+.btn{
+    top: 45%;
+}
+
+#header-form{
+    text-align: center;
+    font-size: 300%;
+}
+
+.btn-flat{
+    display: flex;
+    justify-content: center;
+    left: 38%;
+    background-color: cadetblue;
+    color: white;
+    width: 25%;
+    
+}
+
+.modal-trigger{
+    width: 15%;
+    margin-left: 43%;
+    margin-bottom: 1.5%;
+}
+.img-1 img{
+    width: 100%;
+    
+}
+
+.text-1 p{
+    margin-top: 40px;
+}
+
+.img-2 img{
+    margin-top: 100px;
+    width: 100%;
+}
+
+.text-2 p{
+    margin-top: 110px;
+}
+
+.img-3 img{
+    margin-top: 140px;
+    width: 100%;
+}
+
+.text-3.s12 p{
+    margin-top: 10%;
+}
+
+.text-3.l6 p{
+    margin-top: 30%;
+}
+
+.copyright p{
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    background-color: #2196F3;
+    position: static;
+    bottom: 0px;
+    
+}
+.footer .row{
+    background-color: #2196F3;
+    position: static;
+    bottom: 0px;
+    margin-bottom: 0px;
+}
+.footer .copyright p{
+    background-color: #2196F3;  
+}

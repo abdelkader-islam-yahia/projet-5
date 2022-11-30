@@ -1,0 +1,70 @@
+
+
+.container {
+    margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.brand-logo img{
+    height: 65px;
+}
+
+.item3{
+    background-image: url("../img/img-2-p1-flou.jpg");
+    background-size: 100%;
+}
+.item2{
+    background-image: url("../img/img-1-p3-flou.jpg");
+    background-size: 75%;
+}
+.item1{
+    background-image: url("../img/img-1-p2-flou.jpg");
+    background-size: 100%;
+}
+
+.s12{
+    text-align: center;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+  }
+
+.page-footer{
+    position: static;
+    bottom: 0px;
+}
+
+.nav{
+    position: sticky;
+    top: 0px;
+}
+
+.btn{
+    top: 45%;
+}
+
+#header-form{
+    text-align: center;
+    font-size: 300%;
+}
+
+.btn-flat{
+    display: flex;
+    justify-content: center;
+    left: 38%;
+    background-color: #2196F3;
+    color: white;
+    width: 25%;
+}
+
+.modal-trigger{
+    width: 15%;
+    margin-left: 43%;
+    margin-bottom: 1.5%;
+}
+
